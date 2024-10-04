@@ -1,0 +1,13 @@
+npm create vite@latest nama_app
+
+npm i --force axios bootstrap react-router-dom react-bootstrap react-reveal sweetalert2
+
+Fullstack Project Express + React :
+https://github.com/isanmh/be_micro
+https://github.com/isanmh/fe_micro
+
+Final Project :
+https://github.com/isanmh/rest_react
+
+
+
